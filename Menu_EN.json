@@ -1,0 +1,30 @@
+{
+  "enterSender": "Enter the sender email (gmail only)",
+  "enterPrecipitation": "Enter maximal precipitation for launch(%):",
+  "enterFile": "Enter the name of the file:",
+  "nonNumerical": "Numerical field in file has non-numerical values",
+  "enterMinTemp": "Enter minimal temperature for launch:",
+  "emailBody": "This is the weather report highlighting the most appropriate day for the space launch and the aggregate data for the time period.",
+  "inappropriateOption": "Enter a number corresponding to a command (1-4)",
+  "enterLightning": "Enter lightning condition for the launch(Yes/No):",
+  "enterReceiver": "Enter the receiver's email",
+  "fileNotFound": "File not found. Try again",
+  "fileReadExc": "Failed to read from file",
+  "enterPassword": "Enter the sender's app password (two-factor authentication is required)",
+  "emailSubject": "Space launch weather report!",
+  "enterMaxTemp": "Enter maximal temperature for launch:",
+  "enterHumidity": "Enter maximal humidity for launch(%):",
+  "emailSent": "Email sent",
+  "fileWriteExc": "Failed to write to file",
+  "enterLanguage": "Enter a language(en/de):",
+  "options": [
+    "1 - Choose a language",
+    "2 - Get weather report",
+    "3 - Change criteria for rocket launch",
+    "4 - Exit"
+  ],
+  "invalidNumber": "Invalid number",
+  "emailNotSent": "Email unsuccessfully sent!",
+  "enterWind": "Enter maximal wind speed launch:",
+  "sendingEmail": "Sending email"
+}

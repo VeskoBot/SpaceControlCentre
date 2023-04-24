@@ -1,0 +1,30 @@
+{
+  "enterSender": "Geben Sie die E-Mail-Adresse des Absenders ein (nur Gmail)",
+  "enterPrecipitation": "Geben Sie den maximalen Niederschlag für den Start ein (%):",
+  "enterFile": "Geben Sie den Namen der Datei ein:",
+  "nonNumerical": "Numerisches Feld in Datei enthält nicht numerische Werte",
+  "enterMinTemp": "Geben Sie die Mindesttemperatur für den Start ein:",
+  "emailBody": "Dies ist der Wetterbericht, der den am besten geeigneten Tag für den Weltraumstart und die aggregierten Daten für den Zeitraum hervorhebt.",
+  "inappropriateOption": "Geben Sie eine Nummer ein, die einem Befehl entspricht (1-4)",
+  "enterLightning": "Blitzbedingung für den Start eingeben (Yes/No):",
+  "enterReceiver": "Geben Sie die E-Mail-Adresse des Empfängers ein",
+  "fileNotFound": "Datei nicht gefunden. Versuchen Sie es erneut",
+  "fileReadExc": "Lesen aus Datei fehlgeschlagen",
+  "enterPassword": "Geben Sie das App-Passwort des Absenders ein (Zwei-Faktor-Authentifizierung ist erforderlich)",
+  "emailSubject": "Wetterbericht zum Weltraumstart!",
+  "enterMaxTemp": "Geben Sie die maximale Temperatur für den Start ein:",
+  "enterHumidity": "Geben Sie die maximale Luftfeuchtigkeit für den Start ein (%):",
+  "emailSent": "E-Mail gesendet",
+  "fileWriteExc": "Fehler beim Schreiben in die Datei",
+  "enterLanguage": "Geben Sie eine Sprache ein (en/de):",
+  "options": [
+    "1 - Wählen Sie eine Sprache aus",
+    "2 - Wetterbericht abrufen",
+    "3 - Ändern Sie die Kriterien für den Raketenstart",
+    "4 - Beenden"
+  ],
+  "invalidNumber": "Ungültige Nummer",
+  "emailNotSent": "E-Mail erfolglos gesendet!",
+  "enterWind": "Geben Sie die maximale Windgeschwindigkeit ein:",
+  "sendingEmail": "Email schicken"
+}
